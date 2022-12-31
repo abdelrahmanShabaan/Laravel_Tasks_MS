@@ -1,0 +1,35 @@
+To make this project work :
+make sure you use XAMP and run project in localhost in htdocs 
+and after make download from github or pull make sure you will make in terminal of laravel :
+composer install 
+npm install 
+npm run dev
+php artisan ui:auth 
+---------------------------------
+and don't forget to connect .env in your laravel with Databse name with word (soft_it)
+and don't forget to import file soft_it.mysql to your localhost Database before try to use project.
+----------------------------------
+you can use that users name and password as (Admin):
+
+username :  ahmed@gmail.com
+password : ahmed123
+
+another one :
+
+username : mahas@gmail.com
+password : maha1234
+
+
+------------------------------------------------
+
+you can use that users name and password as (user):
+
+username : mona@gmail.com
+password : mona1234
+
+
+username : mido@gmail.com
+password : mido1234
+
+-----------------------------------------
+thank you so much to download my project

@@ -16,7 +16,10 @@
                     <div class="container text-center">
                     <h2>you sign as user </h2>
                     <a class="btn btn-primary btn-lg" href="{{route('mytask')}}" role="button">click Here to see your daily task</a>
-                </div>
+                    </div>
+                    <div class="container text-center" style="margin-top:20px">
+                <a class="btn btn-warning btn-lg" href="{{route('api_tasks')}}" role="button">click to see Api for tasks</a>
+                        </div>
             </div>
         </div>
     </div>
